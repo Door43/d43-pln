@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pln:home|Door43 (pln)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pln|d43-pln repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pln/archive/master.zip|d43-pln.zip]]
+
+**Recent Changes**
+{{changes>ns = pln}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pln|Ethnologue data]]
+
